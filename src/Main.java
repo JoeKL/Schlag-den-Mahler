@@ -78,7 +78,7 @@ public class Main {
         IniExtra();
 
 
-        JDialog MainFrame = new JDialog();
+        JFrame MainFrame = new JFrame();
         MainFrame.setTitle("Schlag den Mahler");
         MainFrame.setResizable(false);
         MainFrame.setSize(630,345);
@@ -281,6 +281,7 @@ public class Main {
         Pane8.add(radioPanel3);
         Background.add(Pane8);
 
+        MainFrame.setDefaultCloseOperation(JDialog.EXIT_ON_CLOSE);
         MainFrame.add(Background);
         MainFrame.setVisible(true);
 
