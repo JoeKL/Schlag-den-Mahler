@@ -3,123 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="da960757-a12e-47f4-8957-ef5839fd04d7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/GameCard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/Main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card17.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card18.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card19.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card20.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card21.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card22.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card23.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card24.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card25.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card26.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card27.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card28.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card29.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card30.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card31.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card33.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card34.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card35.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card36.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card37.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card38.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card39.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card40.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card41.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card42.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card43.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card44.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card45.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card46.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card47.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card49.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card50.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card51.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/card9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/deck.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/pos1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/pos2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Schlag den Mahler/res/pos3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GameCard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card17.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card18.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card19.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card20.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card21.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card22.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card23.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card24.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card25.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card26.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card27.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card28.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card29.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card30.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card31.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card33.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card34.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card35.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card36.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card37.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card38.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card39.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card40.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card41.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card42.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card43.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card44.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card45.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card46.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card47.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card49.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card50.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card51.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/card9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/deck.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/pos1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/pos2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/pos3.png" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -140,14 +23,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="512" />
-          <entry key="txt" value="41" />
+          <entry key="java" value="517" />
+          <entry key="txt" value="62" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="512" />
-          <entry key="PLAIN_TEXT" value="41" />
+          <entry key="JAVA" value="517" />
+          <entry key="PLAIN_TEXT" value="62" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -170,7 +53,7 @@
         <entry file="file://$PROJECT_DIR$/src/game/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="222">
-              <caret line="171" column="51" selection-start-line="171" selection-start-column="30" selection-end-line="171" selection-end-column="51" />
+              <caret line="191" column="88" selection-start-line="191" selection-start-column="88" selection-end-line="191" selection-end-column="88" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -254,7 +137,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542101470005" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542101577351" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -297,7 +180,7 @@
       <updated>1542048455596</updated>
       <workItem from="1542048456998" duration="603000" />
       <workItem from="1542099098963" duration="1602000" />
-      <workItem from="1542100732492" duration="595000" />
+      <workItem from="1542100732492" duration="838000" />
     </task>
     <task id="LOCAL-00001" summary="EXIT_ON_CLOSE bug gefixt">
       <created>1542099825303</created>
@@ -306,14 +189,21 @@
       <option name="project" value="LOCAL" />
       <updated>1542099825304</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="All Warnings cleared">
+      <created>1542101531755</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1542101531755</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2800000" />
+    <option name="totallyTimeSpent" value="3043000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25637585" />
@@ -354,7 +244,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="EXIT_ON_CLOSE bug gefixt" />
-    <option name="LAST_COMMIT_MESSAGE" value="EXIT_ON_CLOSE bug gefixt" />
+    <MESSAGE value="All Warnings cleared" />
+    <option name="LAST_COMMIT_MESSAGE" value="All Warnings cleared" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/GameCard.java" />
@@ -372,7 +263,7 @@
     <entry file="file://$PROJECT_DIR$/src/game/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="222">
-          <caret line="171" column="51" selection-start-line="171" selection-start-column="30" selection-end-line="171" selection-end-column="51" />
+          <caret line="191" column="88" selection-start-line="191" selection-start-column="88" selection-end-line="191" selection-end-column="88" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
